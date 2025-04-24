@@ -1,0 +1,10 @@
+rollup.config.mjs
+tsconfig.json
+pnpm-lock.yaml
+
+node_modules/
+.idea/
+.vscode/
+src/
+.gitignore
+LICENSE
